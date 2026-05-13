@@ -6,14 +6,13 @@
   Remote · UTC+3 (Moldova/EU) · Open to B2B contracts
 
   ---
-
+  
   ## Stack
 
-  | Area | Technologies |
-  | Backend | PHP 8.1+, Symfony, Drupal 7–11 |
-  | Infrastructure | Docker, DDEV, Lando, Terminus, bash |
-  | AI tooling | MCP servers, LanceDB vector search, knowledge graphs |
-  | Frontend | TypeScript, Next.js, Tailwind CSS |
+  - **Backend** — PHP 8.1+, Symfony, Drupal 7–11
+  - **Infrastructure** — Docker, DDEV, Lando, Terminus, bash
+  - **AI tooling** — MCP servers, LanceDB vector search, knowledge graphs
+  - **Frontend** — TypeScript, Next.js, Tailwind CSS
 
   ---
 
